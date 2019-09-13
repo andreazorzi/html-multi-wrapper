@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Wrap html-multi-wrapper",
+        "command": "html-multi-wrapper:wrap"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "HTML Multi Wrapper",
+          "submenu": [
+            {
+              "label": "Wrap",
+              "command": "html-multi-wrapper:wrap"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
