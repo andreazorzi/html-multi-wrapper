@@ -1,12 +1,12 @@
 {
   "name": "html-multi-wrapper",
   "main": "./lib/html-multi-wrapper",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "An HTML multiselection tag wrapper",
   "keywords": [
-      "html",
-      "wrapper",
-      "multi"
+    "html",
+    "wrapper",
+    "multi"
   ],
   "activationCommands": {
     "atom-workspace": "html-multi-wrapper:wrap"
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
